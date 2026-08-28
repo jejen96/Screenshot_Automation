@@ -1,0 +1,9 @@
+# Screenshot
+pillow==10.3.0
+pyautogui==0.9.54
+
+# Excel
+openpyxl==3.1.2
+
+# Utility
+python-dateutil==2.9.0
